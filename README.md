@@ -1,4 +1,4 @@
-## Olá👋! Eu sou o Alessandro(alecod).
+## Hello👋! I'm Alessandro.
 
 <div align="left">
   <a href="https://github.com/alecod">
