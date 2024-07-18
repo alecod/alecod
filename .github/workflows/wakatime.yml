@@ -10,7 +10,10 @@ jobs:
   update-readme:
     name: Update Readme with WakaTime Data
     runs-on: ubuntu-latest
+    
     steps:
+      - name: Profile Readme Development Stats
+        uses: anmol098/waka-readme-stats@v4
       - uses: actions/checkout@v2
       - name: Update Readme with WakaTime Data
         uses: anmol098/waka-readme-stats@master
