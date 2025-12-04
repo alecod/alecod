@@ -25,4 +25,4 @@
 
 
 
-![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=alecod)
+![WakaTime stats](https://github-readme-stats-4oxukg0bg-alecods-projects.vercel.app/api/wakatime?username=alecod)
