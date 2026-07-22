@@ -23,4 +23,4 @@
 
 <br/>
 
-![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=alecod)
+[![wakatime](https://wakatime.com/badge/user/eee76148-09b0-44c7-9c32-929bbbd05df5.svg)](https://wakatime.com/@eee76148-09b0-44c7-9c32-929bbbd05df5)
